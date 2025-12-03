@@ -13,14 +13,18 @@ Source: Amazon reviews for Lenovo K8 mobile (scraped data)
 Structure:
 
 Sentiment: value: 1 = positive, 0 = negative
+
 Reviews: Main text of customer reviews
+
 Size: 14,675 reviews
+
 Dataset Source: Kaggle - Manish Gupta
 
 🚀 Installation
 bash
 # Clone the repository
-git clone https://github.com/yourusername/lenovo-k8-review-analysis.git
+git clone https://github.com/Reshma-Rekha-12/lenovo-k8-review-analysis.git
+
 cd lenovo-k8-review-analysis
 
 # Install required packages
